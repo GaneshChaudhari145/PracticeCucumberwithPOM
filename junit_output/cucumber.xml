@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="1">
+<testcase classname="Orange Hrm Application Test" name="Validate Orange Hrm Home Page Test" time="14.090019">
+<system-out><![CDATA[Given user opnes browser..........................................................passed
+Then user is on login Page.........................................................passed
+Then user logs into app...........................................................passed
+Then Validate the home Page title......................................................passed
+Then validate logged in username......................................................passed
+Then admin add New User...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
